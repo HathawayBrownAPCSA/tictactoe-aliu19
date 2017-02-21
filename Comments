@@ -1,0 +1,9 @@
+You still have items to do here ...
+
+The Announce the Winner and the Check for a Tie
+(You even commented on them in your code!)
+
+However - you called this TicTacToe2 but in the main method you set up a TicTacToe[not 2] so it may be 
+that you fixed the errors in there.
+
+Good start here.  7/10 for now.
